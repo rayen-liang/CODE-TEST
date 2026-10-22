@@ -1,0 +1,6 @@
+.streamlit/secrets.toml
+programs.db
+programs.db-shm
+programs.db-wal
+__pycache__/
+.venv/
